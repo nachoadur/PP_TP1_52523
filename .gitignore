@@ -1,11 +1,8 @@
-# Ignorar archivos compilados (para no subir código binario)
 out/
 *.class
 
-# Ignorar configuraciones locales del editor (metadatos locales)
 .idea/
 *.iml
 
-# Ignorar archivos ocultos del sistema operativo
 .DS_Store
 Thumbs.db
